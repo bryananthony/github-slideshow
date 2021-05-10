@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+bundar kaki saya
 Use the left arrow to go back!
